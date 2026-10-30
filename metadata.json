@@ -1,0 +1,8 @@
+{
+  "name": "TrustGuard AI",
+  "description": "Enterprise AI Security, Privacy & Governance Platform. Real-time PII redaction, prompt injection & jailbreak firewall, AI safety audits, and compliance reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
